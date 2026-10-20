@@ -1,0 +1,23 @@
+TECHBAIRRO 3.3.1
+
+REQUISITOS
+
+- Python 3 instalado (testado com Python 3.12 no Windows).
+- Não é necessário instalar bibliotecas extras. O sistema utiliza tkinter, sqlite3 e módulos nativos do Python.
+- No Linux, pode ser necessário instalar o Tkinter com o comando: sudo apt install python3-tk.
+
+COMO EXECUTAR
+
+1. Extraia o arquivo TechBairro-3.3.1.zip.
+2. Abra um terminal dentro da pasta extraída.
+3. Execute o comando: python techbairro.py.
+
+BANCO DE DADOS
+
+- O sistema utiliza o banco de dados SQLite para armazenar os clientes.
+- Na primeira execução, o arquivo techbairro.db é criado automaticamente na mesma pasta do programa.
+- Faça cópias de segurança do arquivo techbairro.db para evitar a perda dos dados cadastrados.
+
+OBSERVAÇÃO
+
+Este projeto foi desenvolvido em Python e permite cadastrar, consultar, editar e excluir clientes.
