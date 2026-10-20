@@ -1,0 +1,16 @@
+﻿# Banco de dados local: guarda dados pessoais dos clientes (LGPD)
+techbairro.db
+
+# Arquivos criados pelo Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Distribuição e pacotes gerados
+/dist/
+*.zip
+
+# Arquivos auxiliares da disciplina que não fazem parte do projeto
+Preparando_TechBairro_para_publicacao.md
+RELATORIO_ATIVIDADE_27.md
+bject
