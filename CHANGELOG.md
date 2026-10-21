@@ -1,9 +1,8 @@
 # Changelog da TechBairro
 
-## [Não publicado]
+## Publicado no GitHub
 ### Alterado
-- Preparação do projeto para publicação no GitHub, com organização do repositório e revisão final da documentação.
-- Ajustes finais na estrutura do projeto para manter o pacote limpo e pronto para uso em outra máquina.
+- Projeto publicado no GitHub com a versão atual e o changelog atualizado.
 
 ## v3.3.1 (Aula 21)
 ### Alterado
