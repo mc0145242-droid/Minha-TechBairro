@@ -1,5 +1,10 @@
 # Changelog da TechBairro
 
+## [Não publicado]
+### Alterado
+- Preparação do projeto para publicação no GitHub, com organização do repositório e revisão final da documentação.
+- Ajustes finais na estrutura do projeto para manter o pacote limpo e pronto para uso em outra máquina.
+
 ## v3.3.1 (Aula 21)
 ### Alterado
 - A TechBairro foi reorganizada em camadas: modelo em `cliente.py`, acesso a dados em `banco.py`, regras de negócio em `validacao.py` e a interface em `techbairro.py`.
