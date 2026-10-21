@@ -1,8 +1,8 @@
 # Changelog da TechBairro
 
-## Publicado no GitHub
-### Alterado
-- Projeto publicado no GitHub com a versão atual e o changelog atualizado.
+## Em desenvolvimento
+### Adicionado
+- Código publicado no GitHub, com histórico de versões.
 
 ## v3.3.1 (Aula 21)
 ### Alterado
