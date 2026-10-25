@@ -1,0 +1,3 @@
+# A TechBairro não possui dependências externas.
+# Usa somente módulos da biblioteca padrão do Python:
+# os, sqlite3, tkinter (incluindo tkinter.messagebox), contextlib e zipfile.
