@@ -88,4 +88,4 @@ O passo a passo está no [Manual de uso](docs/manual_de_uso.md).
 
 ## Autor
 
-mc0145242-droid · Técnico em Desenvolvimento de Sistemas · Senac DF
+Mário César · Técnico em Desenvolvimento de Sistemas · Senac DF
