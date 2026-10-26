@@ -2,7 +2,7 @@
 
 A TechBairro é um aplicativo de computador para a associação de moradores cadastrar, consultar, alterar e excluir dados de clientes.
 
-**Versão atual:** 3.3.1 · Histórico de mudanças no [CHANGELOG](CHANGELOG.md)
+**Versão atual:** 3.3.2 · Histórico de mudanças no [CHANGELOG](CHANGELOG.md)
 
 ## Funcionalidades
 
