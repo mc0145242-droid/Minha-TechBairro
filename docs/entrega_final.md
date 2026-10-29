@@ -15,34 +15,6 @@ Por que esse número de versão: desde a versão 3.3.1 foram acrescentadas docum
 | 8 | A Issue "Teste do README" (Aula 26) está fechada | [Issue #1 — Teste do README: fechada](https://github.com/mc0145242-droid/Minha-TechBairro/issues/1). |
 | 9 | O vídeo está publicado e o link abre sem pedir login | **Pendente:** depois de publicar o vídeo, cole aqui o link e teste-o numa janela anônima. |
 
-## Roteiro do vídeo (até 3 minutos)
-
-| Bloco | Tempo | O que mostrar ou dizer |
-|---|---|---|
-| 1. Problema e solução | 30 s | A associação precisava organizar os cadastros; a TechBairro permite cadastrar, consultar, editar e excluir clientes, com validação e banco SQLite. Apresentar a versão 3.3.2. |
-| 2. Demonstração | 1 min 30 s | Com dados fictícios, cadastrar um cliente, consultar, editar o telefone, mostrar uma validação recusando um dado inválido e excluir: primeiro responder Não e depois Sim. |
-| 3. Como foi construída | 30 s | Python, Tkinter, SQLite, validação em módulo separado, testes, documentação, repositório e release no GitHub. |
-| 4. Aprendizado | 30 s | Contar uma dificuldade do projeto e como foi resolvida, ou uma melhoria que faria. |
-
-### Texto para falar
-
-As instruções entre colchetes são ações na tela; não precisam ser lidas. Use apenas os dados fictícios abaixo e deixe o aplicativo aberto antes de começar.
-
-**0:00–0:30 — Apresentação**
-
-> Olá, eu sou Mário e vou apresentar a versão 3.3.2 da TechBairro. A associação de moradores precisava organizar os cadastros de clientes. Para resolver esse problema, desenvolvi um aplicativo que permite cadastrar, consultar, editar e excluir registros, com validação dos campos e armazenamento em um banco SQLite.
-
-**0:30–2:00 — Demonstração**
-
-> Vou cadastrar um cliente fictício. [Preencha Ana Souza, 61999990001, ana@email.com e Rua 1 Casa 2; clique em Salvar e confirme o aviso.] O cadastro foi salvo e o contador foi atualizado. Agora vou consultar a lista e selecionar a Ana para editar. [Abra Consultar, selecione a cliente e clique em Editar selecionado.] O formulário voltou preenchido. Vou trocar o telefone para 61998877665 e salvar a edição. [Salve e mostre a mensagem de sucesso.] Para demonstrar a validação, vou informar um e-mail sem ponto no domínio. [Tente salvar com o e-mail ana@email.] O sistema recusou o dado inválido; isso ajuda a evitar cadastros incorretos. Agora vou excluir esse registro. [Abra Consultar, selecione Ana e clique em Excluir selecionado.] Primeiro vou escolher Não para cancelar. [Clique em Não.] O cadastro continua na lista. Vou repetir e confirmar a exclusão. [Abra a confirmação novamente e clique em Sim.] Pronto: o cliente foi removido.
-
-**2:00–2:30 — Construção e entrega**
-
-> O aplicativo foi feito em Python com Tkinter para as telas e SQLite para armazenar os dados. Organizei o modelo, o acesso ao banco e as validações em módulos separados e registrei os testes e as instruções de uso. O código está no GitHub, e a versão 3.3.2 foi publicada com um pacote para download.
-
-**2:30–3:00 — Aprendizado e encerramento**
-
-> Uma dificuldade importante foi garantir que editar ou excluir afetasse o cliente certo. A aplicação usa o identificador do registro no banco, e os testes ajudam a conferir as regras e esse fluxo. Aprendi que separar responsabilidades e testar a versão final torna o sistema mais confiável. Obrigado por assistir.
 
 ## Perguntas
 
