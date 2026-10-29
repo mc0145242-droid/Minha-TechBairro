@@ -27,8 +27,4 @@ Nos seis casos da versão 3.3.2 não foi encontrado defeito. Uma correção ante
 **3. Se o voluntário tiver só o link do repositório, como instala e executa?**  
 Instala o Python 3 com Tkinter, baixa o projeto pelo botão **Code > Download ZIP** no GitHub, extrai o arquivo, abre um terminal na pasta que contém `techbairro.py` e executa `python techbairro.py`. O projeto não requer bibliotecas externas. O [README](../README.md) contém as instruções.
 
-## Autoavaliação
 
-O roteiro organiza a apresentação para mostrar o problema, o sistema funcionando e como o projeto foi construído. Ao assistir à gravação, vou conferir se a tela está legível, se a explicação cabe no tempo e se o áudio está claro; se necessário, vou regravar o trecho que precisar. Aprendi que testar a versão final e preparar dados fictícios ajudam a apresentar o sistema com segurança.
-
-**Depois de publicar o vídeo:** preencher o item 9 com o link e confirmar que ele abre sem login.
